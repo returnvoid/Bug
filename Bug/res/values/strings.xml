@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bug</string>
+    <string name="action_settings">Settings</string>
+    <string name="init_bug">Init Bug</string>
+    <string name="app_id">107309112809134</string>
+    <string name="access_token">3e0a04d3e908944a694807da7620a9ad</string>
+    <string name="enter_button_label">Entrar</string>
+    <string name="cl_returnvoid_username">Username</string>
+    <string name="cl_returnvoid_status">Status</string>
+    <string name="cl_returnvoid_cover_description">Cover description</string>
+</resources>
